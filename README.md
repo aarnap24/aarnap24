@@ -1,15 +1,14 @@
-## Hello! I'm Aarna
+# Hey, I'm Aarna!
 
-![](https://komarev.com/ghpvc/?username=aarnap24&color=9caf88&style=for-the-badge&label=Enjoy+your+stay+viewer)
+![](https://komarev.com/ghpvc/?username=aarnap24&color=9caf88&style=for-the-badge&label=🐸+Enjoy+your+stay,+viewer+++)
 
-## About Me:
-## - Pronouns: She/her
-## - Undergrad at University of Illinois Chicago
-##   - Majoring in Computer Science and Design
-##   - Expected grad: Spring 2028
-## - Interested in web development and game design
-## - Currently learning: Python, C++, and C
-
+# About Me:
+- Pronouns: She/her
+- Undergrad at University of Illinois Chicago
+  - Majoring in Computer Science and Design
+  - Expected grad: Spring 2028
+- Interested in web development and game design
+- Currently learning: Python, C++, and C
 <!--
 **aarnap24/aarnap24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
