@@ -1,6 +1,6 @@
 ## Hello! I'm Aarna
 
-![](https://komarev.com/ghpvc/?username=aarnap24&color=9caf88&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=aarnap24&color=9caf88&style=for-the-badge&label=Enjoy+your+stay+viewer)
 
 ## About Me:
 ## - Pronouns: She/her
